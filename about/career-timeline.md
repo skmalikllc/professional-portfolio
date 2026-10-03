@@ -45,4 +45,4 @@ This is a gradual, evidenced career transition rather than two competing full-ti
 
 ## Why the transition happened the way it did
 
-A twenty-year technical career gives you documentation habits, process discipline and fault-finding instinct. What it does not give you is modern tooling. Building the second track slowly, alongside the first, is how the two ended up reinforcing each other: the automation work is more reliable because of the operational background, and the operational background stayed current because of the automation work.
+A twenty-year technical career gives you documentation habits and process discipline. What it does not give you is modern tooling. Building the second track slowly, alongside the first, is how the two ended up reinforcing each other: the automation work is more reliable because of the operational background, and the operational background stayed current because of the automation work.
