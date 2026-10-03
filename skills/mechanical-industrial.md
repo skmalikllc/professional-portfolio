@@ -6,19 +6,15 @@ From the technical operations career, 2003 – 2023. Levels are stated honestly;
 
 | Skill | Level | Context |
 |---|---|---|
-| Workshop operations | Working | Day-to-day running of a workshop environment over many years |
+| Workshop operations | Working | Working in and running the day-to-day of a mechanical workshop environment over many years |
 | Machining | Working | Component machining in a maintained workshop |
-| Lathe operation | Working | Routine turning work |
-| CNC | **Basics / exposure** | Familiar with the principles and basic operation. Not a CNC programmer |
-| Workshop tools and equipment | Working | Use, care and safe handling |
-| Measuring and inspection equipment | Working | Dimensional checking against specification |
-| Preventive maintenance | Working | Scheduled maintenance to documented intervals |
-| Fault-finding and diagnostics | Working | Isolating faults by elimination on technical equipment |
-| Technical drawings and specifications | Working | Reading and working to specification |
-| Quality control / inspection | Working | Inspection, non-conformance identification and recording |
-| Maintenance records and work orders | Working | Work orders raised and tracked, maintenance recorded against equipment in an internal operations system |
+| Lathe / CNC | **Basics / exposure** | Familiar with the principles and basic operation. Not a CNC programmer |
+| Quality assurance / quality control (QA/QC) | Working | Quality checks and records within the technical operation |
+| Maintenance records and work orders | Working | Work orders raised and tracked, maintenance recorded in an internal operations system |
 | Inventory and material control | Working | Stock records, material issue and receipt documentation |
-| Workplace safety practice | Working | Procedural safety discipline in a controlled environment |
+| Technical documentation | Working | Preparing and keeping technical and operational records |
+| Technical instruction and training | Working | Instructing technical personnel |
+| Team and shift supervision | Working | Supervising shift operations and coordinating a team |
 
 ---
 
