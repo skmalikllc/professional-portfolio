@@ -19,10 +19,7 @@ That description will be familiar to anyone who has run a manufacturing line, a 
 ## Responsibilities over the period
 
 ### Mechanical and workshop operations
-Workshop-based technical work: machining and lathe operation, CNC basics, use and care of workshop tools and measuring equipment, component handling, and the day-to-day running of a workshop environment.
-
-### Maintenance and fault-finding
-Preventive maintenance to schedule, and diagnostic fault-finding on technical equipment — isolating a fault by elimination rather than replacing parts until the symptom disappears.
+Workshop-based technical work: machining, lathe and CNC at basics/exposure level, and the day-to-day running of a workshop environment.
 
 ### Quality assurance and control
 Inspection of work against specification, identification of non-conformance, and recording of findings. Working to a standard where "it looked fine" is not an acceptable record.
@@ -58,7 +55,6 @@ Familiarity with controlled-access and CCTV-monitored operational environments, 
 | Experience | Civilian equivalent |
 |---|---|
 | Workshop operations, machining, lathe, CNC basics | Production, workshop, maintenance and technician roles |
-| Preventive maintenance and fault-finding | Maintenance technician, field service, facilities |
 | QA / QC inspection and non-conformance recording | Quality control, quality assurance, inspection |
 | Work-order raising and tracking | Work-order management, maintenance planning, CMMS-adjacent roles |
 | Inventory records and material issue/receipt | Inventory control, stores and warehouse administration, material control |
