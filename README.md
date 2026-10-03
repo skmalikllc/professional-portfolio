@@ -34,7 +34,7 @@ Pakistan (UTC+5) · open to international and remote opportunities
 | **Career 2003–2023** | Technical operations, quality, documentation, training and supervision — Pakistan Air Force |
 | **Career 2015–2025** | Freelance client services, part-time alongside the above |
 | **Career 2025–present** | Full-time freelance: automation, integrations, business systems |
-| **Evidence** | 200+ completed freelance engagements, with a public repository behind each major project; own Etsy shop, [EverlanceAutomation](https://www.etsy.com/shop/EverlanceAutomation) |
+| **Evidence** | 200+ completed freelance engagements, with public case studies for the main projects; own Etsy shop, [EverlanceAutomation](https://www.etsy.com/shop/EverlanceAutomation) |
 | **Open to** | Technical operations · mechanical and industrial support · administration · operations coordination · business systems · workflow automation · e-commerce operations |
 
 ---
@@ -50,7 +50,7 @@ Pakistan (UTC+5) · open to international and remote opportunities
 | [projects/](projects/README.md) | Sanitized case studies and open-source tooling |
 | [education/](education/README.md) | Qualifications |
 | [certifications/](certifications/README.md) | Certification index, by category |
-| [cv/](cv/README.md) | Four CV versions and what each one targets |
+| [cv/](cv/README.md) | CV overview (PDF versions not yet published) |
 | [contact/](contact/README.md) | How to get in touch |
 
 ---
@@ -59,4 +59,4 @@ Pakistan (UTC+5) · open to international and remote opportunities
 
 Everything in this portfolio is either verifiable from public platform records, or stated by me about my own history. Where something is not yet documented, it is marked **Verification pending** rather than written as a claim. Where a skill is at basic or exposure level, it says so.
 
-No client names, client data, credentials or identifiers appear anywhere in this portfolio or in the linked repositories. No information about military units, locations, equipment or duties is published.
+No client names, client data, credentials or identifiers appear anywhere in this portfolio or in the linked repositories.
