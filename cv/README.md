@@ -8,7 +8,7 @@ Four CV versions are planned. All four draw on the same factual master profile i
 
 | Version | Targets | Leads with | Keeps brief |
 |---|---|---|---|
-| **1. Mechanical / technical** | Production, workshop, maintenance, technician and quality roles | DAE Mechanical; workshop and machining; preventive maintenance; fault-finding; QA/QC; the 2003–2023 technical career | Automation and e-commerce — one short section |
+| **1. Mechanical / technical** | Production, workshop, maintenance, technician and quality roles | DAE Mechanical; workshop and machining; QA/QC; the 2003–2023 technical career | Automation and e-commerce — one short section |
 | **2. Administration / operations** | Operations coordination, administration, document control, data and records roles | Documentation and records; SOP and process compliance; inventory, work orders and maintenance records in an internal operations system; shift supervision; scheduling and reporting; office and Workspace tooling | Mechanical detail reduced to context |
 | **3. Automation / IT / freelance** | Automation, integration, Workspace, remote technical delivery | Automation platforms; Workspace and Apps Script; APIs and data migration; the verified freelance record; public project repositories | The technical career framed as process discipline |
 | **4. General international employment** | Broad international and relocation applications across sectors | Reliability, adaptability, twenty years of structured work, hands-on technical capability, independent remote delivery | Specialist detail from all tracks compressed |
