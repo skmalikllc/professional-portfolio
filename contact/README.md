@@ -5,7 +5,7 @@ Pakistan · UTC+5
 
 | | |
 |---|---|
-| Email | sk.malik.llc@gmail.com |
+| Email | sk.malik159@gmail.com |
 | LinkedIn | [Shoukat Abbas](https://www.linkedin.com/in/shoukat-abbas/) |
 | Upwork | [upwork.com/freelancers/skmalik1](https://www.upwork.com/freelancers/skmalik1) |
 | Fiverr | [fiverr.com/skmalik166](https://www.fiverr.com/skmalik166) |
