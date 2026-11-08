@@ -6,6 +6,7 @@ Pakistan · UTC+5
 | | |
 |---|---|
 | Email | sk.malik159@gmail.com |
+| Phone / WhatsApp | +92 320 7787316 |
 | LinkedIn | [Shoukat Abbas](https://www.linkedin.com/in/shoukat-abbas/) |
 | Upwork | [upwork.com/freelancers/skmalik1](https://www.upwork.com/freelancers/skmalik1) |
 | Fiverr | [fiverr.com/skmalik166](https://www.fiverr.com/skmalik166) |
