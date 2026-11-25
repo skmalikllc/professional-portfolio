@@ -1,6 +1,6 @@
 # Administration & operations skills
 
-Drawn from both careers: a structured technical environment from 2003 to 2023, and client-facing business operations since 2015.
+Drawn from both careers: a structured technical environment (Pakistan Air Force, 2003 to 2025), and client-facing business operations since March 2015.
 
 ---
 
@@ -8,18 +8,18 @@ Drawn from both careers: a structured technical environment from 2003 to 2023, a
 
 | Skill | Level | Context |
 |---|---|---|
-| Process and SOP compliance | Strong | Twenty years working to written procedure where deviation has consequences |
+| Process and SOP compliance | Strong | Over twenty years working to written procedure where deviation has consequences |
 | Documentation and document control | Strong | Technical and administrative records kept auditable |
 | Quality assurance and control | Working | Inspection against standard, non-conformance recording |
-| ERP-style / intranet operations systems | Working | Inventory, work orders, maintenance records, reporting and material transactions in an internal intranet-based system. Not commercial ERP product administration |
+| ERP-style / intranet operations systems | Working | Data management, record verification, inventory, reporting and user-account and access-permission administration in an internal intranet-based system. Not commercial ERP product administration (no SAP, Oracle or Dynamics experience) |
 | Inventory records and material control | Working | Stock records, material issue and receipt documentation |
-| Work-order tracking | Working | Raising, tracking and closing work orders through a system of record |
-| Maintenance records administration | Working | Maintenance recorded against equipment and retrievable later |
-| Shift supervision | Working | Shift coordination with continuity at handover |
-| Team coordination | Working | Work allocation and follow-through |
+| Training administration | Working | Trainee registration, enrolment, attendance, training records and completion certificates |
+| Examination management | Working | Written examinations, practical tests, trainee evaluations and result preparation |
+| Staff coordination and scheduling | Working | Instructor assignments, duty rosters, course schedules, work allocation and follow-through |
 | Technical instruction and training | Working | Preparing and delivering instruction to technical personnel |
-| Reporting | Working | Routine operational reporting to fixed format and schedule |
-| Scheduling | Working | Work and resource scheduling within a shift operation |
+| Reporting | Working | Routine operational and progress reporting to fixed format and schedule |
+| Database queries and reporting | Working | Microsoft Access queries and reports; Excel formulas and PivotTables |
+| Basic IT support | Working | Basic computer, printer, networking, Windows and software troubleshooting; data backup and recovery |
 
 ## Administration
 
@@ -46,4 +46,4 @@ Drawn from both careers: a structured technical environment from 2003 to 2023, a
 
 ## What this looks like in practice
 
-The useful version of "administrative skills" is not speed at a keyboard. It is that six months later, somebody else can find the record, read what was decided, and see who changed it. That is what twenty years in a documented technical environment trains into you, and it is the part that transfers everywhere.
+The useful version of "administrative skills" is not speed at a keyboard. It is that six months later, somebody else can find the record, read what was decided, and see who changed it. That is what more than twenty years in a documented technical environment trains into you, and it is the part that transfers everywhere.
