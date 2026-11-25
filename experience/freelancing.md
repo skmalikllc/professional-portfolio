@@ -1,18 +1,22 @@
 # Freelance client services
 
-Remote delivery for clients in the UK, US, Europe and Australia through Fiverr, Upwork and direct engagement.
+Remote delivery for clients in the UK, US, Europe and Australia through Fiverr, Upwork and direct engagement — freelancing since March 2015, and through Everlance LLC since 2025.
 
 ---
 
-## 2015 – 2025 · Part-time freelance work
+## March 2015 – December 2025 · Part-time freelance work
 
-Started freelancing part-time in 2015 alongside my primary career, building experience in digital administration, cloud systems, e-commerce and workflow automation.
+Started freelancing part-time in March 2015 alongside my Pakistan Air Force service, building experience in digital administration, cloud systems, e-commerce and workflow automation.
 
 This was deliberately gradual. Work was taken on outside primary working commitments, which meant smaller engagements, clear scope and reliable delivery mattered more than volume. The service lines that grew out of that period — file and mailbox organisation, data cleanup, cloud migration — are still the ones with the deepest record behind them.
 
-## 2025 – present · Full-time freelance
+## 2025 – present · Everlance LLC
 
-Transitioned to full-time freelance work in 2025, with automation, integrations and business systems as the main focus.
+Founder of Everlance LLC (2025–present), delivering AI integration, workflow automation, business systems, digital operations and e-commerce solutions.
+
+## December 2025 – present · Full-time freelance
+
+Full-time freelance work followed my retirement from the Pakistan Air Force in December 2025, with automation, integrations and business systems as the main focus.
 
 ---
 
