@@ -16,9 +16,9 @@ Pakistan · UTC+5
 
 ## What I am open to
 
-International and remote opportunities across technical operations, mechanical and industrial support, administration, operations coordination, business systems, workflow automation and e-commerce operations.
+International and remote opportunities across technical operations, mechanical and industrial support, technical instruction, administration, operations coordination, business systems, workflow automation and e-commerce operations.
 
-I work comfortably across time zones and have a documented record of independent remote delivery, as well as twenty years in structured on-site technical environments.
+I work comfortably across time zones and have a documented record of independent remote delivery, as well as over 22 years of Pakistan Air Force service in structured on-site technical environments.
 
 ## For employers
 

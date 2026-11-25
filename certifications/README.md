@@ -1,6 +1,6 @@
 # Certifications & professional training
 
-Seven credentials below have been verified against the original certificate, and each carries the verification link printed on it by the issuer. Anything not verified that way is listed separately and labelled.
+Seven online-course credentials below have been verified against the original certificate, and each carries the verification link printed on it by the issuer. Pakistan Air Force professional training courses and an honour are recorded in their own sections, from documented certificates that have no public verification link. Anything not verified is listed separately and labelled.
 
 ---
 
@@ -32,9 +32,30 @@ Formal training covering Workspace administration, user and resource management,
 
 ---
 
+## Professional training — Pakistan Air Force
+
+Six professional training courses, with titles and completion months taken from the documented course certificates. These are training-course completions: attending a course does not by itself establish hands-on experience, and CNC and machine-maintenance knowledge is **course-based only**.
+
+| Course | Completed | Status |
+|---|---|---|
+| Aircraft Documentation Course | January 2020 | Documented course certificate; no public verification link |
+| Machine Maintenance Course | January 2020 | Documented course certificate; course-based knowledge only |
+| Safety Concern While Working on GE Machines | March 2020 (course completion) | Documented; certificate issue date not yet verified |
+| Utilization of Lathe Machine Course | June 2021 | Documented course certificate; no public verification link |
+| Teaching Techniques Course No. 2106 | July 2021 | Documented course certificate; no public verification link |
+| QC Familiarization Course | April 2022 | Documented course certificate; no public verification link |
+
+## Honours
+
+| Honour | Awarded by | Result |
+|---|---|---|
+| Certificate of Distinction — Military Leadership & Command Course No. DL-01 | Pakistan Air Force | 80% aggregate; completion date not recorded here |
+
+---
+
 ## What these credentials are, and what they are not
 
-Each of the seven is described on the certificate itself as **an online non-credit course**, authorised by Google Cloud or Vanderbilt University and offered through Coursera. They are course completions, verifiable at the links above.
+Each of the seven online-course credentials is described on the certificate itself as **an online non-credit course**, authorised by Google Cloud or Vanderbilt University and offered through Coursera. They are course completions, verifiable at the links above.
 
 They are **not** professional certification titles. I do not describe myself as a certified Google Workspace administrator, because none of these credentials grants that title.
 
@@ -76,7 +97,7 @@ These will move into the verified section, with dates and a verification link, o
 
 | Qualification | Institution | Years | Status |
 |---|---|---|---|
-| DAE Mechanical | School of Aeronautics, Karachi | 2003 – 2005 | Completed — see [education](../education/README.md) |
+| Diploma in Machinist Technology (recognized as equivalent to the Diploma of Associate Engineer in Pakistan, as stated on the diploma) | School of Aeronautics, Pakistan Air Force | 2003 – 2005 | Completed, 68.23% — see [education](../education/README.md) |
 
 ## Automation
 
@@ -84,7 +105,7 @@ No formal certification. Capability in this area is evidenced by delivered proje
 
 ## Professional development
 
-Technical instruction and supervision experience from the 2003–2023 career is recorded under [experience](../experience/pakistan-air-force.md). Any formal instructor or training qualification will be added once documented.
+Technical instruction and training administration experience from September 2019 to December 2025 is recorded under [experience](../experience/pakistan-air-force.md), supported by the Teaching Techniques Course No. 2106 listed above.
 
 ---
 
@@ -93,10 +114,11 @@ Technical instruction and supervision experience from the 2003–2023 career is 
 | Status | Meaning |
 |---|---|
 | **Verified** | Checked against the original certificate; the issuer's own verification link is published beside it |
+| **Documented — no public link** | Recorded from the course certificate; the issuer provides no online verification link. Titles and months are as documented |
 | **Document verification pending** | Recorded in my professional documents, original certificate not yet located. No date claimed, not described as verified |
 
 ## Certificate files
 
-Certificate PDFs are **not** published in this repository. The verification links above are the issuer's own and are sufficient for an employer to confirm each credential independently.
+Certificate PDFs and scans of original military certificates are **not** published in this repository. The verification links above are the issuer's own and are sufficient for an employer to confirm each credential independently.
 
 If certificate images are published later, each will first be checked and redacted for: national identity number, passport number, service or employee number, date of birth, home address, telephone number, signature, and any QR code or verification identifier that exposes private information. Original unredacted documents stay outside this repository.

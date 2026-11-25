@@ -1,6 +1,6 @@
 # Automation & IT skills
 
-Built from 2015 onwards, part-time at first and full-time since 2025. Every group below is evidenced by a public repository.
+Built from March 2015 onwards, part-time alongside Pakistan Air Force service and full-time since December 2025. Every group below is evidenced by a public repository.
 
 ---
 

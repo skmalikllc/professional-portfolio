@@ -1,52 +1,84 @@
-# Technical operations career — 2003 to 2023
+# Pakistan Air Force career — 2003 to 2025
 
 **Organisation:** Pakistan Air Force
-**Period:** August 2003 – August 2023 (approximately 20 years)
-**Nature of work:** technical operations, quality, documentation, instruction and supervision
+**Service:** 02 August 2003 – 11 December 2025 (22 years 4 months)
+**Initial technical education and training:** 2003 – 2005 (see [education](../education/README.md))
+**Roles (described by function):** Machinist & Machine Shop Supervisor (April 2005 – September 2019) · Technical Instructor & Training Administration Coordinator (September 2019 – December 2025)
 
-This page describes the work in civilian terms, for civilian employers. No information about rank, unit, location, equipment, duties of a sensitive nature, or identifying service details is published here, and none will be.
-
----
-
-## What the environment was like
-
-A structured technical environment with maintained equipment, written procedures, formal record-keeping, scheduled inspection and shift-based operation. Work was carried out to documented standard, checked against that standard, and recorded.
-
-That description will be familiar to anyone who has run a manufacturing line, a maintenance department, a quality function or a facilities operation. The transferable content is high; the subject matter is what differs.
+This page describes the work in civilian terms, for civilian employers. No information about rank, unit, location, equipment, duties of a sensitive nature, or identifying service details is published here, and none will be. Job titles describe the functions performed; they are not official military ranks or designations.
 
 ---
 
-## Responsibilities over the period
+## 2003 – 2005 · Initial technical education and training
 
-### Mechanical and workshop operations
-Workshop-based technical work: machining, lathe and CNC at basics/exposure level, and the day-to-day running of a workshop environment.
+The first two years of service were spent on initial technical education and trade training, leading to the Diploma in Machinist Technology. This period is education, not hands-on machinist employment — see [education](../education/README.md).
 
-### Quality assurance and control
-Inspection of work against specification, identification of non-conformance, and recording of findings. Working to a standard where "it looked fine" is not an acceptable record.
+---
 
-### Operations system, records and inventory
-Worked extensively with an internal intranet-based operations system for data entry, inventory control, work-order tracking, maintenance records, reporting, material issue/receipt documentation and supervisory oversight.
+## 1. Machinist & Machine Shop Supervisor — April 2005 to September 2019
 
-In civilian terms this is an **ERP-style internal operations system** — an intranet-based operations and maintenance management system — rather than a commercial ERP product. The day-to-day work was the same shape: raising and tracking work orders, keeping inventory records accurate, recording maintenance against equipment, documenting material issued and received, producing operational reports from the system, and overseeing that other people's entries were correct and complete.
+Aviation production and technical operations.
 
-**This is practical operational-system experience, not commercial ERP product administration.** I hold no certification in any commercial ERP platform and do not claim experience with one. What transfers is the discipline of working inside a system of record where an inaccurate entry has downstream consequences.
+- Performed hands-on conventional machining, precision manufacturing and aircraft component production.
+- Operated conventional industrial machine tools to manufacture and process mechanical components.
+- Conducted dimensional checks, quality inspections and finished-work verification.
+- Monitored daily production activities, work progress and production targets.
+- Undertook machine shop supervisory responsibilities during approximately the final two years of this assignment, including allocating duties, monitoring personnel and checking completed work.
+- Evaluated staff performance and enforced workshop safety procedures.
+- Maintained stock registers, material receipt records and issue documentation.
+- Coordinated with other departments and submitted periodic progress reports to senior management.
 
-Alongside the system, maintaining documentation so that it is auditable later by someone who was not there at the time.
+---
 
-### Process and SOP compliance
-Working to written standard operating procedures in an environment where deviation carries consequences, and contributing to the documentation that others then worked from.
+## 2. Technical Instructor & Training Administration Coordinator — September 2019 to December 2025
 
-### Technical instruction and training
-Instructing technical personnel — teaching a process so that it is followed correctly and consistently by people who did not design it. This included preparing material, delivering instruction, and assessing whether it had landed.
+Technical training.
 
-### Shift and team supervision
-Supervising shift operations and coordinating a team: allocating work, maintaining continuity across shift changes, and producing handovers that survived the change of personnel.
+### Technical instruction and assessment
+- Delivered theoretical classroom instruction and hands-on practical workshop training in machining and machine operation.
+- Developed lesson plans, course outlines, presentations and instructional materials.
+- Instructed trainees in machine operation, workshop safety and practical machining procedures.
+- Planned and coordinated training courses, examinations and practical assessments.
+- Conducted written examinations, practical tests, trainee evaluations and result preparation.
+- Prepared trainee progress reports and guided junior instructors.
 
-### Administration
-General administrative support within a technical function: records, scheduling, reporting and correspondence.
+### Training and office administration
+- Managed trainee registration, course enrolment, attendance, training records and completion documentation.
+- Coordinated instructor assignments, staff duty rosters and course schedules.
+- Prepared official correspondence, notices, administrative reports and meeting minutes.
+- Organised meetings, training events and completion ceremonies.
+- Maintained confidential records and physical and digital filing systems; prepared documents for inspections and audits.
+- Managed training completion certificates and supported interdepartmental coordination.
 
-### Security and monitored-access environments
-Familiarity with controlled-access and CCTV-monitored operational environments, and the procedural discipline those environments require.
+### Computerised systems, data and IT support
+- Used internal intranet-based, ERP-style organisational systems for data management, record verification and reporting.
+- Administered user accounts and assigned or updated access permissions within authorised internal systems.
+- Created queries and reports using Microsoft Access and internal organisational systems.
+- Used Microsoft Excel formulas, PivotTables and advanced reporting functions.
+- Provided basic computer, printer, networking, Windows and software troubleshooting support.
+- Supported digital records organisation, data backup and recovery.
+
+---
+
+## 3. Additional operational responsibilities
+
+During service, also performed responsibilities involving security supervision and access control, mess and catering administration and staff supervision, inventory and material records, visitor reception and customer-facing coordination, and departmental communication and administrative documentation. These were additional responsibilities rather than separate dated employment positions.
+
+---
+
+## About the operations system
+
+The internal system used for records, inventory and reporting is, in civilian terms, an **ERP-style internal operations system** — an intranet-based operations and maintenance management system — rather than a commercial ERP product. The day-to-day work was the same shape: entering and verifying records, keeping inventory records accurate, documenting material issued and received, producing operational reports from the system, and checking that other people's entries were correct and complete.
+
+**This is practical operational-system experience, not commercial ERP product administration.** I hold no certification in any commercial ERP platform and do not claim experience with SAP, Oracle ERP or Microsoft Dynamics. What transfers is the discipline of working inside a system of record where an inaccurate entry has downstream consequences.
+
+---
+
+## Scope notes
+
+- CNC knowledge is theoretical and course-based, not hands-on CNC operation or programming.
+- Machine-maintenance knowledge is course-based (see [certifications](../certifications/README.md)); no industrial machine-maintenance, aircraft-maintenance or fault-finding experience is claimed.
+- Computer troubleshooting and basic IT support (item 2 above) are genuine, practical experience.
 
 ---
 
@@ -54,17 +86,16 @@ Familiarity with controlled-access and CCTV-monitored operational environments, 
 
 | Experience | Civilian equivalent |
 |---|---|
-| Workshop operations, machining, lathe, CNC basics | Production, workshop, maintenance and technician roles |
-| QA / QC inspection and non-conformance recording | Quality control, quality assurance, inspection |
-| Work-order raising and tracking | Work-order management, maintenance planning, CMMS-adjacent roles |
-| Inventory records and material issue/receipt | Inventory control, stores and warehouse administration, material control |
-| Maintenance records against equipment | Maintenance administration, maintenance records, production/maintenance coordination |
-| Operational reporting from a system of record | Operations support, reporting, data entry |
-| Technical documentation and record tracking | Operations administration, document control |
-| SOP compliance and procedure writing | Process compliance, HSE-adjacent administration, auditing support |
-| Technical instruction | Training, technical onboarding, instruction |
-| Shift supervision and handover | Team leader, shift supervisor, operations coordinator |
-| Administration within a technical function | Technical administration, operations support, coordination |
+| Conventional machining and aircraft component manufacturing | Production, workshop and machinist roles |
+| Dimensional inspection and quality control | Quality control, inspection |
+| Production monitoring and machine shop supervision | Production monitoring, workshop supervision, team leader |
+| Stock registers and material issue/receipt records | Inventory control, stores and material control |
+| Technical instruction and practical workshop training | Technical instructor, trainer, technical onboarding |
+| Examination management and training administration | Training coordination, assessment administration |
+| Staff coordination, rosters and scheduling | Operations coordination, scheduling |
+| Reporting, correspondence and confidential records | Operations administration, document control |
+| Access and user-account administration, Access/Excel reporting | Operations support, reporting, data administration |
+| Basic computer and network troubleshooting | IT support (entry level) |
 
 ---
 
